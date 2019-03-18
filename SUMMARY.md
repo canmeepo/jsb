@@ -18,6 +18,9 @@
 
 ## Вопросы
 
-* [123](voprosy/123/README.md)
-  * [123](voprosy/123/123.md)
+* [js](voprosy/123/README.md)
+  * [Objects](voprosy/123/123/README.md)
+    * [1](voprosy/123/123/1.md)
+* [ts](voprosy/ts.md)
+* [react](voprosy/react.md)
 
